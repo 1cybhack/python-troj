@@ -595,6 +595,15 @@ send_to_telegram_split(f"⌨️ تم زرع ملف تتبع الكيبورد ب�
 ---
 
 #### 4. **الواجهة وشاشة القفل**
+
+![Screenshot-2025-04-12-131058](https://i.postimg.cc/J0qGRfNk/Screenshot-2025-04-12-131058.png)
+
+---
+
+![Screenshot-2025-04-12-131129](https://i.postimg.cc/kMFVNb0g/Screenshot-2025-04-12-131129.png)
+
+
+
 ```python
 ctk.set_appearance_mode("light")
 root = ctk.CTk()
